@@ -29,7 +29,7 @@ public class Tabinit {
 		else
 		{
 			System.out.println("Non la valeur n'est pas dans le tableau");
-			//J'affiche que le chiffre n'est pas de la tableau
+			 cool programme fontionne 
 			
 		}
 			
